@@ -191,7 +191,7 @@ html{
    position: relative;
    margin-top: 46px ;   /* chỉnh margin top cho silder bằng với height cùa header để ko bị dính */
   padding-top: 50%;   /* padding-top gồm % thì bằng 50% chiều ngang  của chính nó */
-  background: url(../assets/img/silder/slider1.jpg)  /* background position */top center / /* background size */   cover   /* background repeat    */ no-repeat;
+  background: url(/assets/img/silder/slider1.jpg)  /* background position */top center / /* background size */   cover   /* background repeat    */ no-repeat;
 }
 
 #slider .text-content{
